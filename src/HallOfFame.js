@@ -23,7 +23,7 @@ HallOfFame.propTypes = {
             id: PropTypes.number.isRequired,
             date: PropTypes.string.isRequired,
             guesses: PropTypes.number.isRequired,
-            player: PropTypes.string.isRequired, 
+            player: PropTypes.string.isRequired,
         })
     ).isRequired,
 }
